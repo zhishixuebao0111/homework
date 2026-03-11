@@ -26,3 +26,4 @@ C:\Users\tianci\source\repos\zhishixuebao0111\homework\第一次作业\ConsoleAp
 C:\Users\tianci\source\repos\zhishixuebao0111\homework\第一次作业\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.pdb
 C:\Users\tianci\source\repos\zhishixuebao0111\homework\第一次作业\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.genruntimeconfig.cache
 C:\Users\tianci\source\repos\zhishixuebao0111\homework\第一次作业\ConsoleApp1\obj\Debug\net10.0\ref\ConsoleApp1.dll
+C:\Users\tianci\source\repos\zhishixuebao0111\homework\第一次作业\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.sourcelink.json

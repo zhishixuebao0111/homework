@@ -18,7 +18,7 @@ namespace ConsoleApp1
                 m = n;
                 n = t; 
             }
-
+            int mod10 = 0;
             for(int i = m; i <= n; i++)
             {
                 bool isprimed = true;
@@ -31,7 +31,10 @@ namespace ConsoleApp1
                 }
                 if (isprimed&&i!=1)
                 {
-                    Console.WriteLine(i);
+                    Console.Write(i+" ");
+                    mod10++;
+                    if (mod10 == 10)
+                    Console.WriteLine();
                 }
             }
         }
@@ -46,7 +49,7 @@ namespace ConsoleApp1
             n=Console.ReadLine();
             primenumber pn = new primenumber(int.Parse(m),int.Parse(n));
             pn.Isprime();
-            Console.WriteLine("你好，我是张宸豪");
+            Console.WriteLine("你好，我是XXX");
         }
     }
 }
